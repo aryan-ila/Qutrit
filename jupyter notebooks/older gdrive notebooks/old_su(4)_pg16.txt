@@ -1,0 +1,796 @@
+Element 0 
+
+0 0
+1 1
+Element 1 
+
+1 1
+2 2
+Element 2 
+
+2 2
+3 3
+Element 3 
+
+0 1
+1 0
+Element 4 
+
+0 2
+2 0
+Element 5 
+
+0 3
+3 0
+Element 6 
+
+1 2
+2 1
+Element 7 
+
+1 3
+3 1
+Element 8 
+
+2 3
+3 2
+Element 9 
+
+0 1
+1 0
+Element 10 
+
+0 2
+2 0
+Element 11 
+
+0 3
+3 0
+Element 12 
+
+1 2
+2 1
+Element 13 
+
+1 3
+3 1
+Element 14 
+
+2 3
+3 2
+
+
+
+
+Basis Element 0 Basis Element 1 
+
+Basis Element 0 Basis Element 2 
+
+Basis Element 0 Basis Element 3 
+
+0 1
+1 0
+Basis Element 0 Basis Element 4 
+
+0 2
+2 0
+Basis Element 0 Basis Element 5 
+
+0 3
+3 0
+Basis Element 0 Basis Element 6 
+
+1 2
+2 1
+Basis Element 0 Basis Element 7 
+
+1 3
+3 1
+Basis Element 0 Basis Element 8 
+
+Basis Element 0 Basis Element 9 
+
+0 1
+1 0
+Basis Element 0 Basis Element 10 
+
+0 2
+2 0
+Basis Element 0 Basis Element 11 
+
+0 3
+3 0
+Basis Element 0 Basis Element 12 
+
+1 2
+2 1
+Basis Element 0 Basis Element 13 
+
+1 3
+3 1
+Basis Element 0 Basis Element 14 
+
+Basis Element 1 Basis Element 0 
+
+Basis Element 1 Basis Element 2 
+
+Basis Element 1 Basis Element 3 
+
+0 1
+1 0
+Basis Element 1 Basis Element 4 
+
+0 2
+2 0
+Basis Element 1 Basis Element 5 
+
+Basis Element 1 Basis Element 6 
+
+1 2
+2 1
+Basis Element 1 Basis Element 7 
+
+1 3
+3 1
+Basis Element 1 Basis Element 8 
+
+2 3
+3 2
+Basis Element 1 Basis Element 9 
+
+0 1
+1 0
+Basis Element 1 Basis Element 10 
+
+0 2
+2 0
+Basis Element 1 Basis Element 11 
+
+Basis Element 1 Basis Element 12 
+
+1 2
+2 1
+Basis Element 1 Basis Element 13 
+
+1 3
+3 1
+Basis Element 1 Basis Element 14 
+
+2 3
+3 2
+Basis Element 2 Basis Element 0 
+
+Basis Element 2 Basis Element 1 
+
+Basis Element 2 Basis Element 3 
+
+Basis Element 2 Basis Element 4 
+
+0 2
+2 0
+Basis Element 2 Basis Element 5 
+
+0 3
+3 0
+Basis Element 2 Basis Element 6 
+
+1 2
+2 1
+Basis Element 2 Basis Element 7 
+
+1 3
+3 1
+Basis Element 2 Basis Element 8 
+
+2 3
+3 2
+Basis Element 2 Basis Element 9 
+
+Basis Element 2 Basis Element 10 
+
+0 2
+2 0
+Basis Element 2 Basis Element 11 
+
+0 3
+3 0
+Basis Element 2 Basis Element 12 
+
+1 2
+2 1
+Basis Element 2 Basis Element 13 
+
+1 3
+3 1
+Basis Element 2 Basis Element 14 
+
+2 3
+3 2
+Basis Element 3 Basis Element 0 
+
+0 1
+1 0
+Basis Element 3 Basis Element 1 
+
+0 1
+1 0
+Basis Element 3 Basis Element 2 
+
+Basis Element 3 Basis Element 4 
+
+1 2
+2 1
+Basis Element 3 Basis Element 5 
+
+1 3
+3 1
+Basis Element 3 Basis Element 6 
+
+0 2
+2 0
+Basis Element 3 Basis Element 7 
+
+0 3
+3 0
+Basis Element 3 Basis Element 8 
+
+Basis Element 3 Basis Element 9 
+
+Basis Element 3 Basis Element 10 
+
+1 2
+2 1
+Basis Element 3 Basis Element 11 
+
+1 3
+3 1
+Basis Element 3 Basis Element 12 
+
+0 2
+2 0
+Basis Element 3 Basis Element 13 
+
+0 3
+3 0
+Basis Element 3 Basis Element 14 
+
+Basis Element 4 Basis Element 0 
+
+0 2
+2 0
+Basis Element 4 Basis Element 1 
+
+0 2
+2 0
+Basis Element 4 Basis Element 2 
+
+0 2
+2 0
+Basis Element 4 Basis Element 3 
+
+1 2
+2 1
+Basis Element 4 Basis Element 5 
+
+2 3
+3 2
+Basis Element 4 Basis Element 6 
+
+0 1
+1 0
+Basis Element 4 Basis Element 7 
+
+Basis Element 4 Basis Element 8 
+
+0 3
+3 0
+Basis Element 4 Basis Element 9 
+
+1 2
+2 1
+Basis Element 4 Basis Element 10 
+
+Basis Element 4 Basis Element 11 
+
+2 3
+3 2
+Basis Element 4 Basis Element 12 
+
+0 1
+1 0
+Basis Element 4 Basis Element 13 
+
+Basis Element 4 Basis Element 14 
+
+0 3
+3 0
+Basis Element 5 Basis Element 0 
+
+0 3
+3 0
+Basis Element 5 Basis Element 1 
+
+Basis Element 5 Basis Element 2 
+
+0 3
+3 0
+Basis Element 5 Basis Element 3 
+
+1 3
+3 1
+Basis Element 5 Basis Element 4 
+
+2 3
+3 2
+Basis Element 5 Basis Element 6 
+
+Basis Element 5 Basis Element 7 
+
+0 1
+1 0
+Basis Element 5 Basis Element 8 
+
+0 2
+2 0
+Basis Element 5 Basis Element 9 
+
+1 3
+3 1
+Basis Element 5 Basis Element 10 
+
+2 3
+3 2
+Basis Element 5 Basis Element 11 
+
+Basis Element 5 Basis Element 12 
+
+Basis Element 5 Basis Element 13 
+
+0 1
+1 0
+Basis Element 5 Basis Element 14 
+
+0 2
+2 0
+Basis Element 6 Basis Element 0 
+
+1 2
+2 1
+Basis Element 6 Basis Element 1 
+
+1 2
+2 1
+Basis Element 6 Basis Element 2 
+
+1 2
+2 1
+Basis Element 6 Basis Element 3 
+
+0 2
+2 0
+Basis Element 6 Basis Element 4 
+
+0 1
+1 0
+Basis Element 6 Basis Element 5 
+
+Basis Element 6 Basis Element 7 
+
+2 3
+3 2
+Basis Element 6 Basis Element 8 
+
+1 3
+3 1
+Basis Element 6 Basis Element 9 
+
+0 2
+2 0
+Basis Element 6 Basis Element 10 
+
+0 1
+1 0
+Basis Element 6 Basis Element 11 
+
+Basis Element 6 Basis Element 12 
+
+Basis Element 6 Basis Element 13 
+
+2 3
+3 2
+Basis Element 6 Basis Element 14 
+
+1 3
+3 1
+Basis Element 7 Basis Element 0 
+
+1 3
+3 1
+Basis Element 7 Basis Element 1 
+
+1 3
+3 1
+Basis Element 7 Basis Element 2 
+
+1 3
+3 1
+Basis Element 7 Basis Element 3 
+
+0 3
+3 0
+Basis Element 7 Basis Element 4 
+
+Basis Element 7 Basis Element 5 
+
+0 1
+1 0
+Basis Element 7 Basis Element 6 
+
+2 3
+3 2
+Basis Element 7 Basis Element 8 
+
+1 2
+2 1
+Basis Element 7 Basis Element 9 
+
+0 3
+3 0
+Basis Element 7 Basis Element 10 
+
+Basis Element 7 Basis Element 11 
+
+0 1
+1 0
+Basis Element 7 Basis Element 12 
+
+2 3
+3 2
+Basis Element 7 Basis Element 13 
+
+Basis Element 7 Basis Element 14 
+
+1 2
+2 1
+Basis Element 8 Basis Element 0 
+
+Basis Element 8 Basis Element 1 
+
+2 3
+3 2
+Basis Element 8 Basis Element 2 
+
+2 3
+3 2
+Basis Element 8 Basis Element 3 
+
+Basis Element 8 Basis Element 4 
+
+0 3
+3 0
+Basis Element 8 Basis Element 5 
+
+0 2
+2 0
+Basis Element 8 Basis Element 6 
+
+1 3
+3 1
+Basis Element 8 Basis Element 7 
+
+1 2
+2 1
+Basis Element 8 Basis Element 9 
+
+Basis Element 8 Basis Element 10 
+
+0 3
+3 0
+Basis Element 8 Basis Element 11 
+
+0 2
+2 0
+Basis Element 8 Basis Element 12 
+
+1 3
+3 1
+Basis Element 8 Basis Element 13 
+
+1 2
+2 1
+Basis Element 8 Basis Element 14 
+
+Basis Element 9 Basis Element 0 
+
+0 1
+1 0
+Basis Element 9 Basis Element 1 
+
+0 1
+1 0
+Basis Element 9 Basis Element 2 
+
+Basis Element 9 Basis Element 3 
+
+Basis Element 9 Basis Element 4 
+
+1 2
+2 1
+Basis Element 9 Basis Element 5 
+
+1 3
+3 1
+Basis Element 9 Basis Element 6 
+
+0 2
+2 0
+Basis Element 9 Basis Element 7 
+
+0 3
+3 0
+Basis Element 9 Basis Element 8 
+
+Basis Element 9 Basis Element 10 
+
+1 2
+2 1
+Basis Element 9 Basis Element 11 
+
+1 3
+3 1
+Basis Element 9 Basis Element 12 
+
+0 2
+2 0
+Basis Element 9 Basis Element 13 
+
+0 3
+3 0
+Basis Element 9 Basis Element 14 
+
+Basis Element 10 Basis Element 0 
+
+0 2
+2 0
+Basis Element 10 Basis Element 1 
+
+0 2
+2 0
+Basis Element 10 Basis Element 2 
+
+0 2
+2 0
+Basis Element 10 Basis Element 3 
+
+1 2
+2 1
+Basis Element 10 Basis Element 4 
+
+Basis Element 10 Basis Element 5 
+
+2 3
+3 2
+Basis Element 10 Basis Element 6 
+
+0 1
+1 0
+Basis Element 10 Basis Element 7 
+
+Basis Element 10 Basis Element 8 
+
+0 3
+3 0
+Basis Element 10 Basis Element 9 
+
+1 2
+2 1
+Basis Element 10 Basis Element 11 
+
+2 3
+3 2
+Basis Element 10 Basis Element 12 
+
+0 1
+1 0
+Basis Element 10 Basis Element 13 
+
+Basis Element 10 Basis Element 14 
+
+0 3
+3 0
+Basis Element 11 Basis Element 0 
+
+0 3
+3 0
+Basis Element 11 Basis Element 1 
+
+Basis Element 11 Basis Element 2 
+
+0 3
+3 0
+Basis Element 11 Basis Element 3 
+
+1 3
+3 1
+Basis Element 11 Basis Element 4 
+
+2 3
+3 2
+Basis Element 11 Basis Element 5 
+
+Basis Element 11 Basis Element 6 
+
+Basis Element 11 Basis Element 7 
+
+0 1
+1 0
+Basis Element 11 Basis Element 8 
+
+0 2
+2 0
+Basis Element 11 Basis Element 9 
+
+1 3
+3 1
+Basis Element 11 Basis Element 10 
+
+2 3
+3 2
+Basis Element 11 Basis Element 12 
+
+Basis Element 11 Basis Element 13 
+
+0 1
+1 0
+Basis Element 11 Basis Element 14 
+
+0 2
+2 0
+Basis Element 12 Basis Element 0 
+
+1 2
+2 1
+Basis Element 12 Basis Element 1 
+
+1 2
+2 1
+Basis Element 12 Basis Element 2 
+
+1 2
+2 1
+Basis Element 12 Basis Element 3 
+
+0 2
+2 0
+Basis Element 12 Basis Element 4 
+
+0 1
+1 0
+Basis Element 12 Basis Element 5 
+
+Basis Element 12 Basis Element 6 
+
+Basis Element 12 Basis Element 7 
+
+2 3
+3 2
+Basis Element 12 Basis Element 8 
+
+1 3
+3 1
+Basis Element 12 Basis Element 9 
+
+0 2
+2 0
+Basis Element 12 Basis Element 10 
+
+0 1
+1 0
+Basis Element 12 Basis Element 11 
+
+Basis Element 12 Basis Element 13 
+
+2 3
+3 2
+Basis Element 12 Basis Element 14 
+
+1 3
+3 1
+Basis Element 13 Basis Element 0 
+
+1 3
+3 1
+Basis Element 13 Basis Element 1 
+
+1 3
+3 1
+Basis Element 13 Basis Element 2 
+
+1 3
+3 1
+Basis Element 13 Basis Element 3 
+
+0 3
+3 0
+Basis Element 13 Basis Element 4 
+
+Basis Element 13 Basis Element 5 
+
+0 1
+1 0
+Basis Element 13 Basis Element 6 
+
+2 3
+3 2
+Basis Element 13 Basis Element 7 
+
+Basis Element 13 Basis Element 8 
+
+1 2
+2 1
+Basis Element 13 Basis Element 9 
+
+0 3
+3 0
+Basis Element 13 Basis Element 10 
+
+Basis Element 13 Basis Element 11 
+
+0 1
+1 0
+Basis Element 13 Basis Element 12 
+
+2 3
+3 2
+Basis Element 13 Basis Element 14 
+
+1 2
+2 1
+Basis Element 14 Basis Element 0 
+
+Basis Element 14 Basis Element 1 
+
+2 3
+3 2
+Basis Element 14 Basis Element 2 
+
+2 3
+3 2
+Basis Element 14 Basis Element 3 
+
+Basis Element 14 Basis Element 4 
+
+0 3
+3 0
+Basis Element 14 Basis Element 5 
+
+0 2
+2 0
+Basis Element 14 Basis Element 6 
+
+1 3
+3 1
+Basis Element 14 Basis Element 7 
+
+1 2
+2 1
+Basis Element 14 Basis Element 8 
+
+Basis Element 14 Basis Element 9 
+
+Basis Element 14 Basis Element 10 
+
+0 3
+3 0
+Basis Element 14 Basis Element 11 
+
+0 2
+2 0
+Basis Element 14 Basis Element 12 
+
+1 3
+3 1
+Basis Element 14 Basis Element 13 
+
+1 2
+2 1
